@@ -1,0 +1,43 @@
+.principal {
+    min-width: 100vw;
+	min-height: 10vh;
+	font-size: 28px;
+    color: blue;
+    margin-left: -20vw;
+    padding: 4VH;
+}
+footer {
+    margin-top: 20vh;
+    color: blue;
+}
+.invoice {
+    border: 6px solid blue;
+    width: 60vw;
+    height: 60vh;
+    text-align: center;
+    margin-left: -59vw;
+    margin-top: 20vh;
+    position: absolute;
+	display: inline-block;
+}
+img {
+    width: 25vw;
+    margin-top: 25vh;
+    margin-left: 35vw;
+    padding: 10vw;
+}
+
+form {
+    display: block;
+    text-align: left;
+    margin: 3vw;
+    padding: 2vw;
+}
+.thanks {
+    min-width: 100vw;
+	min-height: 10vh;
+	font-size: 28px;
+    color: blue;
+    margin-left: -20vw;
+}
+
